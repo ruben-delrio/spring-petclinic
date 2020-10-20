@@ -1,4 +1,6 @@
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=main)](https://travis-ci.org/spring-projects/spring-petclinic/)
+![CI-docker](https://github.com/openshift-academia-online/spring-petclinic/workflows/CI-docker/badge.svg)
+
+# Spring PetClinic Sample Application 
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
